@@ -11,6 +11,12 @@
       "title": "test server",
       "description": "test server with react query",
       "status": "in-progress"
+    },
+    {
+      "id": 3,
+      "title": "test new post",
+      "description": "tyring to add a post to my server from postman",
+      "status": "in-progress"
     }
   ]
 }
