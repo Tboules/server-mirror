@@ -2,11 +2,13 @@
   "todos": [
     {
       "id": 1,
+      "title": "create server",
       "description": "create a fake server",
       "status": "in-progress"
     },
     {
       "id": 2,
+      "title": "test server",
       "description": "test server with react query",
       "status": "in-progress"
     }
