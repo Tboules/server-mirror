@@ -17,6 +17,12 @@
       "title": "test new post",
       "description": "tyring to add a post to my server from postman",
       "status": "in-progress"
+    },
+    {
+      "id": 4,
+      "title": "test copy",
+      "description": "tyring to add a post to my server from postman",
+      "status": "complete"
     }
   ]
 }
